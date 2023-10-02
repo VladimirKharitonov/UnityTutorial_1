@@ -4,6 +4,16 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+[Aa]ssets/AssetStoreTools*
+
 # Other files and folders
 .settings/
 
